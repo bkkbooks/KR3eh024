@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3eh024/jc/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷二十九肺痿論活人書云咳嗽有濁唾涎沫或唾中有紅線膿血者名曰肺痿熱在上焦故也熱在上焦者因咳為肺痿肺痿之病從何得之師曰或從汗出或從嘔吐或從消渴小便利數或從便難又被快藥下利重亡津液故得之丹溪云肺痿治法專在養肺養氣養血清金脈法脈經曰肺痿咳唾咽燥欲飲水者自愈自張口者短氣也脈訣舉要曰寸數虛澀脈痿之形治咳唾膿血方人參養肺湯治肺痿咳嗽有痰午後熱並聲嘶者人參阿膠蛤粉炒貝母杏仁去皮尖炒桔梗茯苓桑白皮枳實甘草各一錢柴胡二錢五味子二十個上作一服水二鍾生薑三片棗二枚煎八分食後服人參平肺散治心火克肺傳為肺痿咳嗽喘嘔痰涎壅盛胸膈痞滿咽嗌不利桑白皮炒一兩知母七錢甘草炙地骨皮各半兩五味子三百個茯苓青皮人參各四錢陳皮去白半兩天門冬去心四錢如熱加黃芩四錢紫蘇葉半夏各半兩上㕮咀每服四錢水二盞生薑三片煎八分去渣溫服或為末薑汁丸彈子大食後噙化亦得紫菀散治咳嗽唾中有膿血虛勞證肺痿變癰人參一錢紫菀五分知母一錢半貝母一錢半桔梗一錢半甘草五分五味子十五粒茯苓一錢阿膠炒一錢上銼水煎服劫勞散治心腎俱虛勞嗽三二聲無痰遇夜發熱熱過即冷時有盜汗四肢倦怠體劣黃瘦飲食減少夜臥恍惚神氣不安睡多異夢此藥能治微嗽唾中有紅線名曰肺痿若不治便成羸劣之疾白芍藥六兩黃耆甘草人參半夏白礬生薑水制白茯苓熟地黃當歸五味子阿膠炒各二兩上㕮咀每服一兩生薑三片棗三枚水煎不拘時服治咳吐涎沫方生薑甘草湯治肺痿咳吐涎沫不止咽燥而渴生薑五兩人參二兩甘草四兩大棗十五枚上四味以水七升煮取三升分溫三服桂枝去芍藥加皂莢湯治肺痿咳涎沫桂枝生薑各三兩甘草一兩大棗十枚皂莢十枚去皮弦炙焦上五味以水七升微微火煮取三升溫三服甘草乾薑湯肺痿吐涎沫而不咳者其人不渴必遺尿小便數所以然者以上虛不能制下故也此為肺中冷必眩多涎吐以此湯溫之若服湯口渴者屬消渴甘草炙四西乾薑炮二兩上㕮咀以水三升煮取一升五合去渣分溫再服
+  hash: sha256:839ca12cd8f94aa345ffeb935daa66a791c5144a18620c78f0398fc41b9111df
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh024_jc_029-d41.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3eh024_jc_029-d41d2, level: 2, head_text: 肺痿}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3eh024_jc_029-d41.d2.h1s1}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3eh024_jc_029-d41.d2d2, level: 3, head_text: 論}
+  - {type: 'tls:head', offset: 6, content: '', id: KR3eh024_jc_029-d41.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 107, content: '', id: KR3eh024_jc_029-d41.d2d2}
+  - {type: 'tls:div-start', offset: 107, content: '', id: KR3eh024_jc_029-d41.d2d3, level: 3, head_text: 脈法}
+  - {type: 'tls:head', offset: 107, content: '', id: KR3eh024_jc_029-d41.d2.d3.h1s1}
+  - {type: 'tls:div-end', offset: 144, content: '', id: KR3eh024_jc_029-d41.d2d3}
+  - {type: 'tls:div-start', offset: 144, content: '', id: KR3eh024_jc_029-d41.d2d4, level: 3, head_text: 治咳唾膿血方}
+  - {type: 'tls:head', offset: 144, content: '', id: KR3eh024_jc_029-d41.d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 552, content: '', id: KR3eh024_jc_029-d41.d2d4}
+  - {type: 'tls:div-start', offset: 552, content: '', id: KR3eh024_jc_029-d41.d2d5, level: 3, head_text: 治咳吐涎沫方}
+  - {type: 'tls:head', offset: 552, content: '', id: KR3eh024_jc_029-d41.d2.d5.h1s1}
+  - {type: 'tls:div-end', offset: 754, content: '', id: KR3eh024_jc_029-d41.d2d5}
+  - {type: 'tls:div-end', offset: 754, content: '', id: KR3eh024_jc_029-d41d2}
+metadata:
+  title: 濟陽綱目
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh024.xml
+hash: sha256:311ad35c7f4396cda181818a0cca0ca9fd99160d8ccbb81e157f205c359e2847

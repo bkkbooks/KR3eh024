@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR3eh024/jc/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷三十肺癰論書云口中辟辟燥咳即胸中隱隱痛名曰肺癰咳傷肺葉成也仲景云嘔家有癰膿不可治嘔膿儘自愈丹溪云肺癰已破入風者不治用醫壘元戎搜風湯吐之或用太乙膏成丸食後服收斂瘡口止有合歡樹皮白蘞煎飲之合歡即槿樹皮也又名夜合脈法脈訣舉要曰寸數而實肺癰已成寸數虛澀肺痿之形肺癰色白脈宜短澀死者浮大不白而赤治方桔梗湯治肺癰咳嗽膿血痰唾腥臭咽乾多渴大小便赤澀桔梗貝母當歸瓜蔞仁枳殼麩炒薏苡仁炒桑白皮防己各一錢黃耆一錢半甘草節生用杏仁炒去皮尖百合蒸各五分上作一服用水二鍾姜五片煎八分食遠服一方加人參五分口乾燥熱加黃芩大便祕加大黃一錢小便少加木通一錢消膿飲治肺癰膿腥氣上衝而嘔咳嗽南星生一兩知母貝母白芷生地姜炒阿膠炒川芎桑白皮炒白及各半兩甘草炙防風射干桔梗紫蘇葉天門冬去心薄荷杏仁不去皮半夏薑製各七錢半上㕮咀每服一兩生薑七片烏梅一個水煎食後溫服黃耆散治肺癰黃耆一味用白紫蜜炙為細末每服一大匙食遠後用黃耆湯調服效甘桔湯治肺癰吐膿桔梗炒一兩甘草炙半兩上每服一兩水一鍾半煎八分空心服吐盡服為效
+  hash: sha256:8701720066dfc9217f7b2ca1605fb63a46594ff45f5c0df9a0ffb4d919ec14ad
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh024_jc_030-d42.h1s1}
+  - {type: 'tls:div-start', offset: 3, content: '', id: KR3eh024_jc_030-d42d2, level: 2, head_text: 肺癰}
+  - {type: 'tls:head', offset: 3, content: '', id: KR3eh024_jc_030-d42.d2.h1s1}
+  - {type: 'tls:div-start', offset: 5, content: '', id: KR3eh024_jc_030-d42.d2d2, level: 3, head_text: 論}
+  - {type: 'tls:head', offset: 5, content: '', id: KR3eh024_jc_030-d42.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 104, content: '', id: KR3eh024_jc_030-d42.d2d2}
+  - {type: 'tls:div-start', offset: 104, content: '', id: KR3eh024_jc_030-d42.d2d3, level: 3, head_text: 脈法}
+  - {type: 'tls:head', offset: 104, content: '', id: KR3eh024_jc_030-d42.d2.d3.h1s1}
+  - {type: 'tls:div-end', offset: 143, content: '', id: KR3eh024_jc_030-d42.d2d3}
+  - {type: 'tls:div-start', offset: 143, content: '', id: KR3eh024_jc_030-d42.d2d4, level: 3, head_text: 治方}
+  - {type: 'tls:head', offset: 143, content: '', id: KR3eh024_jc_030-d42.d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 430, content: '', id: KR3eh024_jc_030-d42.d2d4}
+  - {type: 'tls:div-end', offset: 430, content: '', id: KR3eh024_jc_030-d42d2}
+metadata:
+  title: 濟陽綱目
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh024.xml
+hash: sha256:22a9d5a55fcd4b0572c95f7dfc07f8869b88cee61f4d92bb36e906f3a6aeb1fb

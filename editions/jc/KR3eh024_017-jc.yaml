@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR3eh024/jc/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷十七噁心論戴氏曰噁心者無聲無物心中欲吐不吐欲嘔不嘔雖曰噁心實非心經之病皆在胃口上宜用生薑蓋能開胃豁痰也統旨云噁心者欲吐不吐心下快快者是也快欲亮切央去聲悵也有熱有痰有虛有寒有食停不化皆能致此痰熱者二陳湯加薑汁炒黃連山梔生薑虛者加參朮砂仁寒者理中湯加藿香砂仁蒼朮厚朴生薑食滯者再加青皮山楂神麯麥芽準繩云噁心乾嘔欲吐不吐心下映漾人如畏船宜大半夏湯或小半夏茯苓湯或理中湯治中湯皆可用李氏曰噁心欲吐不得吐一見飲食便惡者二陳湯加白豆蔻香附砂仁胃寒不渴者理中湯加陳皮半夏生薑各等分胃虛六君子湯加砂仁挾火加薑汁炒黃連少許痰盛者大小半夏湯火盛者二陳湯加薑汁炒芩連船暈噁心治同治痰聚噁心方大半夏湯治噁心亦治暈船半夏陳皮去白茯苓各二錢半上㕮咀水二盞生薑二錢半煎八分食後服生薑半夏湯治胸中似喘不喘似嘔不嘔徹心中憒憒然無奈者此湯主之半夏半斤生薑取自然汁一升上先以水三升煮半夏取二升納生薑汁煮取二升半少冷分四服日三服夜一服治風痰噁心方茯苓半夏湯治胃氣虛弱身重有痰噁心欲吐是邪氣羈絆於脾胃之間當先實其脾胃此方主之白朮茯苓半夏各一兩神麯炒三錢大麥芽半兩炒黃陳皮天麻各二錢上為粗末每服五錢加生薑五片水煎熱服柴胡半夏湯治舊有風證不敢見風眼澀昏黑胸中有痰噁心兀兀欲吐但遇風覺皮肉緊手足難舉動重如石若在暖室少出微汗其證隨減再遇風病復如是此方主之半夏二錢神麯炒蒼朮各一錢白茯苓七分柴胡升麻藁本各五分生薑三片上為粗末作一服水一盞煎至五沸去渣溫服治火鬱噁心方芩連二陳湯治胃口有熱時作惡心陳皮去白半夏茯苓甘草黃芩薑汁炒黃連薑汁炒上㕮咀加生薑五片水煎服一方去黃芩用梔子炒治食停噁心方加味二陳湯治胃口停食聞食噁心陳皮半夏茯苓甘草白豆蔻香附子砂仁上銼加生薑煎服治胃寒噁心方加味生薑理中湯治胃氣虛寒時作惡心人參白朮生薑甘草半夏陳皮各等分上銼水煎服兼食滯加青皮山楂神麯麥芽治胃虛噁心方加味六君子湯治胃氣虛弱不納飲食時作惡心人參白朮茯苓甘草陳皮半夏砂仁上銼加生薑煎服白朮半夏湯治脾虛停飲痰逆噁心中脘刺痛腹脅攪疼頭目昏暈肢節倦怠不思飲食半夏六兩陳皮二兩半白朮丁香赤茯苓各一兩肉桂半兩上銼加生薑煎服
+  hash: sha256:8a2e1f2584a8f097da48767deaa0bf670ef76261b9a649c6aac4195ff4e0eac1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh024_jc_017-d27.h1s1}
+  - {type: 'tls:div-start', offset: 3, content: '', id: KR3eh024_jc_017-d27d2, level: 2, head_text: 噁心}
+  - {type: 'tls:head', offset: 3, content: '', id: KR3eh024_jc_017-d27.d2.h1s1}
+  - {type: 'tls:div-start', offset: 5, content: '', id: KR3eh024_jc_017-d27.d2d2, level: 3, head_text: 論}
+  - {type: 'tls:head', offset: 5, content: '', id: KR3eh024_jc_017-d27.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 279, content: '', id: KR3eh024_jc_017-d27.d2d2}
+  - {type: 'tls:div-start', offset: 279, content: '', id: KR3eh024_jc_017-d27.d2d3, level: 3, head_text: 治痰聚噁心方}
+  - {type: 'tls:head', offset: 279, content: '', id: KR3eh024_jc_017-d27.d2.d3.h1s1}
+  - {type: 'tls:div-end', offset: 398, content: '', id: KR3eh024_jc_017-d27.d2d3}
+  - {type: 'tls:div-start', offset: 398, content: '', id: KR3eh024_jc_017-d27.d2d4, level: 3, head_text: 治風痰噁心方}
+  - {type: 'tls:head', offset: 398, content: '', id: KR3eh024_jc_017-d27.d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 601, content: '', id: KR3eh024_jc_017-d27.d2d4}
+  - {type: 'tls:div-start', offset: 601, content: '', id: KR3eh024_jc_017-d27.d2d5, level: 3, head_text: 治火鬱噁心方}
+  - {type: 'tls:head', offset: 601, content: '', id: KR3eh024_jc_017-d27.d2.d5.h1s1}
+  - {type: 'tls:div-end', offset: 661, content: '', id: KR3eh024_jc_017-d27.d2d5}
+  - {type: 'tls:div-start', offset: 661, content: '', id: KR3eh024_jc_017-d27.d2d6, level: 3, head_text: 治食停噁心方}
+  - {type: 'tls:head', offset: 661, content: '', id: KR3eh024_jc_017-d27.d2.d6.h1s1}
+  - {type: 'tls:div-end', offset: 704, content: '', id: KR3eh024_jc_017-d27.d2d6}
+  - {type: 'tls:div-start', offset: 704, content: '', id: KR3eh024_jc_017-d27.d2d7, level: 3, head_text: 治胃寒噁心方}
+  - {type: 'tls:head', offset: 704, content: '', id: KR3eh024_jc_017-d27.d2.d7.h1s1}
+  - {type: 'tls:div-end', offset: 758, content: '', id: KR3eh024_jc_017-d27.d2d7}
+  - {type: 'tls:div-start', offset: 758, content: '', id: KR3eh024_jc_017-d27.d2d8, level: 3, head_text: 治胃虛噁心方}
+  - {type: 'tls:head', offset: 758, content: '', id: KR3eh024_jc_017-d27.d2.d8.h1s1}
+  - {type: 'tls:div-end', offset: 868, content: '', id: KR3eh024_jc_017-d27.d2d8}
+  - {type: 'tls:div-end', offset: 868, content: '', id: KR3eh024_jc_017-d27d2}
+metadata:
+  title: 濟陽綱目
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh024.xml
+hash: sha256:50e179234415d49d00780e54c841709c6101c4147026614a0c76bce60b1949cc

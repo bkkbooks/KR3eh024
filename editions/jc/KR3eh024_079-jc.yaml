@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3eh024/jc/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷七十九身重嗜臥論東垣曰身重者濕也補中益氣湯加去桂五苓散主之又曰脈緩怠惰嗜臥四肢不收或大便泄瀉此濕勝也用平胃散又云怠惰嗜臥有濕胃虛不能食或沉困或泄瀉加蒼朮自汗加白朮又云食入則困倦精神昏冒而欲睡者脾虛弱也仲景曰風濕脈浮身重汗出惡風者防風黃耆湯主之又曰腎著之病其人身體重腰中冷如坐水中形如水狀反不渴小便自利飲食如故病屬下焦身勞汗出表裡冷濕久久得之腰以下冷痛腹重如帶五千錢乾薑苓朮湯主之潔古曰臥起不能謂之濕身重是也小柴胡湯黃耆芍藥湯夏月中風濕身重如山不能轉側宜除風勝濕去熱之藥治之丹溪曰凡肥人沉困怠惰是濕熱宜蒼朮茯苓滑石凡肥白之人沉困怠惰是氣虛宜二朮人參半夏草果厚朴芍藥凡黑瘦而沉困怠惰者是熱宜白朮黃芩凡飲食不節脾胃受傷不能遞送宜枳朮丸婁氏曰素問云肝虛腎虛脾虛皆令人體重煩悶夫肝虛則脾寡於畏而體重腎虛則脾勝之而體重也治濕熱身重嗜臥方益氣四苓散治傷濕身重黃耆人參甘草炙白朮陳皮當歸升麻柴胡茯苓豬苓澤瀉上銼水煎服人參益氣湯治五六月間兩手麻木四肢困倦怠惰嗜臥乃濕熱傷元氣也黃耆二錢人參生甘草各一錢二分半炙甘草升麻各五分柴胡六分白芍藥七分五味子三十粒上㕮咀水煎空心服服後少臥黃耆芍藥湯治濕身重臥起不能黃耆三兩炙甘草二兩升麻白芍藥各一兩羌活葛根上㕮咀每服五錢水煎食後溫服防己黃耆湯治傷風濕身重汗出惡風者防己黃耆各三錢白朮甘草各一錢上銼作一服加生薑五片棗一枚水煎服平胃散治濕勝脈緩怠惰嗜臥四肢不收或大便泄瀉蒼朮厚朴陳皮甘草炙上銼加薑棗煎服自汗加白朮沉困倍蒼朮一方治虛損治勞倦一切虛極欲垂死者肥人陰虛宜服瘦人不宜服甘草三兩蒼朮一斤米泔水浸一宿切片用韭白一斤細切同醃過一宿川椒四兩炒草烏半斤水浸一宿切片用鹽四兩醃一宿次日炒乾上共為末用好酒糟六斤同搗三五千杵令勻為丸如桐子大每服三十丸空心溫酒鹽湯任下婦人淡醋湯下治脾虛身重嗜臥方參朮湯治脾胃虛弱元氣不能榮於心肺四肢沉重食後昏悶黃耆二錢蒼朮一錢人參陳皮青皮各五分甘草炙四錢神麯七分升麻三分當歸柴胡黃柏酒炒各二分上㕮咀作一服水煎帶熱食前服人參補氣湯治脾氣虛弱四肢懶倦黃耆一錢人參升麻防風黃柏知母各七分白芍藥生地酒炒熟地黃各五分砂仁炒五味子二十粒肉桂二分炙甘草三分生甘草一分上為粗末作一服水煎空心熱服治腎著腰重方乾薑苓朮湯一名腎著湯治腎著身重腰中冷如坐水中乾薑茯苓各四兩白朮甘草各二兩上銼以水五升煮取三升分溫二服腰中自溫
+  hash: sha256:3e6f5388512be59bbafee649a499f1de29bfd650639630458a94b36d6e93a3bc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh024_jc_079-d91.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3eh024_jc_079-d91d2, level: 2, head_text: 身重嗜臥}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3eh024_jc_079-d91.d2.h1s1}
+  - {type: 'tls:div-start', offset: 8, content: '', id: KR3eh024_jc_079-d91.d2d2, level: 3, head_text: 論}
+  - {type: 'tls:head', offset: 8, content: '', id: KR3eh024_jc_079-d91.d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 355, content: '', id: KR3eh024_jc_079-d91.d2d2}
+  - {type: 'tls:div-start', offset: 355, content: '', id: KR3eh024_jc_079-d91.d2d3, level: 3, head_text: 治濕熱身重嗜臥方}
+  - {type: 'tls:head', offset: 355, content: '', id: KR3eh024_jc_079-d91.d2.d3.h1s1}
+  - {type: 'tls:div-end', offset: 744, content: '', id: KR3eh024_jc_079-d91.d2d3}
+  - {type: 'tls:div-start', offset: 744, content: '', id: KR3eh024_jc_079-d91.d2d4, level: 3, head_text: 治脾虛身重嗜臥方}
+  - {type: 'tls:head', offset: 744, content: '', id: KR3eh024_jc_079-d91.d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 910, content: '', id: KR3eh024_jc_079-d91.d2d4}
+  - {type: 'tls:div-start', offset: 910, content: '', id: KR3eh024_jc_079-d91.d2d5, level: 3, head_text: 治腎著腰重方}
+  - {type: 'tls:head', offset: 910, content: '', id: KR3eh024_jc_079-d91.d2.d5.h1s1}
+  - {type: 'tls:div-end', offset: 970, content: '', id: KR3eh024_jc_079-d91.d2d5}
+  - {type: 'tls:div-end', offset: 970, content: '', id: KR3eh024_jc_079-d91d2}
+metadata:
+  title: 濟陽綱目
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh024.xml
+hash: sha256:f9d179a9a3aa9893b51d7f510580c8e1a47d796e3d3c78ab447f975eb09e3ecc
