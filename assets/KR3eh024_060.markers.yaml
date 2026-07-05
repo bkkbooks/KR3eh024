@@ -1340,7 +1340,6 @@ markers:
   - {type: xml-element, offset: 2331, content: '', id: KR3eh024_jc_060-d72.d2.d4p166_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_060-d72.d2.d4p166}}
   - {type: xml-element, offset: 2331, content: '', id: KR3eh024_jc_060-d72.d2.d4p168, name: p, role: open, attrs: {'xml:id': KR3eh024_jc_060-d72.d2.d4p168}}
   - {type: 'tls:seg', offset: 2331, content: '', id: KR3eh024_jc_060-d72.d2.d4.p168s1}
-  - {type: substitution, offset: 2331, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: 'tls:seg', offset: 2333, content: '', id: KR3eh024_jc_060-d72.d2.d4.p168s2}
   - {type: punctuation, offset: 2336, content: 。, id: KR3eh024_jc_060-bkkpn509}
   - {type: xml-element, offset: 2336, content: '', id: KR3eh024_jc_060-d72.d2.d4p168_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_060-d72.d2.d4p168}}
@@ -1352,11 +1351,9 @@ markers:
   - {type: 'tls:seg', offset: 2348, content: '', id: KR3eh024_jc_060-d72.d2.d4.p170s3}
   - {type: punctuation, offset: 2352, content: ，, id: KR3eh024_jc_060-bkkpn512}
   - {type: 'tls:seg', offset: 2352, content: '', id: KR3eh024_jc_060-d72.d2.d4.p170s4}
-  - {type: substitution, offset: 2354, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
-  - {type: substitution, offset: 2356, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 2358, content: ，, id: KR3eh024_jc_060-bkkpn513}
   - {type: 'tls:seg', offset: 2358, content: '', id: KR3eh024_jc_060-d72.d2.d4.p170s5}
   - {type: punctuation, offset: 2362, content: 。, id: KR3eh024_jc_060-bkkpn514}
   - {type: xml-element, offset: 2362, content: '', id: KR3eh024_jc_060-d72.d2.d4p170_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_060-d72.d2.d4p170}}
   back: []
-hash: sha256:59a9ac399539ef6b5fa743706ae2d19277299520bb2ff05b79c8147fd38822fc
+hash: sha256:5db5a81767357fb67b8f1617f2f42fbf22f6e28549b84e39dfeb0ded43a282d7

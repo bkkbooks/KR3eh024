@@ -175,7 +175,6 @@ markers:
   - {type: 'tls:seg', offset: 424, content: '', id: KR3eh024_jc_089-d101.d2.d3.p8s4}
   - {type: punctuation, offset: 430, content: ，, id: KR3eh024_jc_089-bkkpn78}
   - {type: 'tls:seg', offset: 430, content: '', id: KR3eh024_jc_089-d101.d2.d3.p8s5}
-  - {type: substitution, offset: 435, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 436, content: ，, id: KR3eh024_jc_089-bkkpn79}
   - {type: 'tls:seg', offset: 436, content: '', id: KR3eh024_jc_089-d101.d2.d3.p8s6}
   - {type: punctuation, offset: 440, content: 。, id: KR3eh024_jc_089-bkkpn80}
@@ -529,7 +528,6 @@ markers:
   - {type: xml-element, offset: 1068, content: '', id: KR3eh024_jc_089-d101.d2.d3p64_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_089-d101.d2.d3p64}}
   - {type: xml-element, offset: 1068, content: '', id: KR3eh024_jc_089-d101.d2.d3p66, name: p, role: open, attrs: {'xml:id': KR3eh024_jc_089-d101.d2.d3p66}}
   - {type: 'tls:seg', offset: 1068, content: '', id: KR3eh024_jc_089-d101.d2.d3.p66s1}
-  - {type: substitution, offset: 1068, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: 'tls:seg', offset: 1071, content: '', id: KR3eh024_jc_089-d101.d2.d3.p66s2}
   - {type: punctuation, offset: 1078, content: 。, id: KR3eh024_jc_089-bkkpn206}
   - {type: xml-element, offset: 1078, content: '', id: KR3eh024_jc_089-d101.d2.d3p66_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_089-d101.d2.d3p66}}
@@ -1036,4 +1034,4 @@ markers:
   - {type: punctuation, offset: 2075, content: 。, id: KR3eh024_jc_089-bkkpn390}
   - {type: xml-element, offset: 2075, content: '', id: KR3eh024_jc_089-d101.d2.d5p4_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_089-d101.d2.d5p4}}
   back: []
-hash: sha256:21a32a3db3c9204e742b6395bd3d27c642485cc2518778fb3eb9b93d1a6c1f80
+hash: sha256:a5b28d5f1a8eafa69be766420dae29d463db59eb32b560e9934453ada6f6745e
