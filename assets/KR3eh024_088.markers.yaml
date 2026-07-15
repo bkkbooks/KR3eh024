@@ -292,6 +292,7 @@ markers:
   - {type: 'tls:seg-start', offset: 705, content: '', id: KR3eh024_jc_088-d100.d2.d3.p8s4, seg_type: comm, member_ids: [KR3eh024_jc_088-d100.d2.d3.p8s4]}
   - {type: 'tls:seg', offset: 705, content: '', id: KR3eh024_jc_088-d100.d2.d3.p8s4}
   - {type: punctuation, offset: 705, content: （, id: KR3eh024_jc_088-bkkpn132}
+  - {type: substitution, offset: 705, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 708, content: ）, id: KR3eh024_jc_088-bkkpn133}
   - {type: 'tls:seg-end', offset: 708, content: '', id: KR3eh024_jc_088-d100.d2.d3.p8s4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 708, content: '', id: KR3eh024_jc_088-d100.d2.d3.p8s5}
@@ -1096,6 +1097,7 @@ markers:
   - {type: 'tls:seg', offset: 2013, content: '', id: KR3eh024_jc_088-d100.d2.d5.p18s27}
   - {type: punctuation, offset: 2015, content: 。, id: KR3eh024_jc_088-bkkpn429}
   - {type: 'tls:seg', offset: 2015, content: '', id: KR3eh024_jc_088-d100.d2.d5.p18s28}
+  - {type: substitution, offset: 2018, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 2023, content: ，, id: KR3eh024_jc_088-bkkpn430}
   - {type: 'tls:seg', offset: 2023, content: '', id: KR3eh024_jc_088-d100.d2.d5.p18s29}
   - {type: punctuation, offset: 2027, content: ，, id: KR3eh024_jc_088-bkkpn431}
@@ -1836,4 +1838,4 @@ markers:
   - {type: punctuation, offset: 3291, content: 。, id: KR3eh024_jc_088-bkkpn690}
   - {type: xml-element, offset: 3291, content: '', id: KR3eh024_jc_088-d100.d2.d6p16_end, name: p, role: close, attrs: {'xml:id': KR3eh024_jc_088-d100.d2.d6p16}}
   back: []
-hash: sha256:4dfa7111112d0bca3a90f5915ac6fe16a3c3787421b8e829a93fc8cec5d0aedd
+hash: sha256:10b2c0b1aec4269ed26ca976d8eb5255c9b4a725f054cb09bea50ec399505fac
