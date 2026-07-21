@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh024_000.yaml, hash: 'sha256:ff782fe3e4590c45df15bbd8af7e0b9f9d1745886e8ff25f0891aa5da79ab3aa'}
+  - {seq: 0, filename: KR3eh024_000.yaml, hash: 'sha256:31341b2ff1fddaf9a65bc08731e23fb9e7774a6fcac10665c15f23fabda31ca5'}
   - {seq: 1, filename: KR3eh024_001.yaml, hash: 'sha256:a74af69963d7a1f282b241ee1cf20906a3d8bb594549f94cb6d3ca3a6506af0f'}
   - {seq: 2, filename: KR3eh024_002.yaml, hash: 'sha256:3000732874e373e0970159a6d817bb75562c14de66c8791d8628db2c7302c565'}
   - {seq: 3, filename: KR3eh024_003.yaml, hash: 'sha256:d6e826e1768774b0ab026b4234492af6ada7190f40e587c443133b8266f416a2'}
@@ -119,7 +119,7 @@ assets:
   - {seq: 99, filename: KR3eh024_099.yaml, hash: 'sha256:c27a19b4f817068dda80d3d187f5a335eef4baabccf168bba3572438d933f790'}
   - {seq: 100, filename: KR3eh024_100.yaml, hash: 'sha256:b614dc57811dad45cfa8cb740f670b5d28a386e735831726cf1d72c2cc4a4b18'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh024_000.markers.yaml, hash: 'sha256:248ea30c6d3eef7c004d3b0e7d767b004c8877ba302a491b05adf72597b2c0b6'}
+  - {seq: 0, role: markers, filename: assets/KR3eh024_000.markers.yaml, hash: 'sha256:32116f230f15d4ad9190e43d5bad890f940ad3a67ee5ca96575bd07efeaee911'}
   - {seq: 1, role: markers, filename: assets/KR3eh024_001.markers.yaml, hash: 'sha256:287257d5ed6e5fd7c292f79d1e3cd93a78c04189a6563c72965123c6fe5ad295'}
   - {seq: 2, role: markers, filename: assets/KR3eh024_002.markers.yaml, hash: 'sha256:2f6f4f088b67094c0b85555f9062bf225f61b22170f09324af0bbc612e5f0bec'}
   - {seq: 3, role: markers, filename: assets/KR3eh024_003.markers.yaml, hash: 'sha256:6ffed7d677f05157c326214558829a230da42112d2f53a9c788c5772a42328d8'}
@@ -225,7 +225,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 542
   label: 原序
@@ -235,7 +235,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 542
     - 1011
   label: 注梓濟陽綱目序
@@ -245,7 +245,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1011
     - 1265
   label: 重校濟陽綱目序
@@ -255,7 +255,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1265
     - 2357
   label: 張蔭齋先生注梓濟陽綱目序
@@ -265,7 +265,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d5d2
     span:
-    - front
+    - body
     - 1277
     - 1722
   label: 一
@@ -275,7 +275,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d5d3
     span:
-    - front
+    - body
     - 1722
     - 2357
   label: 二
@@ -285,7 +285,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2357
     - 2958
   label: 續刻濟陽綱目序
@@ -295,7 +295,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d6d2
     span:
-    - front
+    - body
     - 2364
     - 2785
   label: 一
@@ -305,7 +305,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d6d3
     span:
-    - front
+    - body
     - 2785
     - 2958
   label: 二
@@ -315,7 +315,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2958
     - 3352
   label: 校刊濟陽綱目序
@@ -325,7 +325,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh024_jc_000-d8.h1s1
     span:
-    - front
+    - body
     - 3352
     - 4078
   label: 重印濟陽綱目序
@@ -12861,7 +12861,7 @@ table_of_contents:
   label: 洗頭方
   type: section
   level: 3
-hash: sha256:98e9ea52f45e0a585461460f6be798691cfd957c9f8cad0254a6a2ee0592873b
+hash: sha256:a71df2d71a31815a109e9039e14d73662b59adc983fd9cf542d5c8ab46bdb8c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
